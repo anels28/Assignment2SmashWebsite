@@ -1,4 +1,4 @@
-<nav>
+<nav class = "menu-inner">
 	<ul>
 		<li><a href="junting.php">Intro</a></li>
 		<li><a href="junting-college-expectations.php">College Expectation</a></li>

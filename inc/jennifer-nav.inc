@@ -1,4 +1,4 @@
-<nav>
+<nav class = "menu-inner">
 	<ul>
 		<li><a href="jennifer.php">Intro</a></li>
 		<li><a href="jennifer-university.php">University</a></li>
