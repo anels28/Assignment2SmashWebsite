@@ -11,7 +11,7 @@
 
 		<header>
 			<a href="index.php">
-				<h1 class="homeh1" style = "font-size: 1.2em; left: -65px" > Welcome to our page </h1>
+				<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 30px;" > Welcome to our page </h1>
 				<img src="images/berlin.jpg" alt="Seattle">
 			</a>
 		</header>
