@@ -5,7 +5,7 @@ include "inc/jialin-html-top.inc";
 <?php include "inc/main-nav.inc"; ?>
 	
 	<main>
-		<p>As a fifth-year student at the University of Rochester,
+		<p class="intro">As a fifth-year student at the University of Rochester,
 		I am double majoring in Business Finance and Art History, with a minor in Computer Science.
 		Due to computer science and coding’s popularity and its extensive use in all kinds of fields
 		and the business world, I have decided to re-classify from Class of 2019 to Class of 2020

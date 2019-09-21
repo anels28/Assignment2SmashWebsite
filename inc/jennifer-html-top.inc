@@ -12,7 +12,7 @@
 
 		<header>
 			<a href="jennifer.php">
-				<h1>Jennifer A Ngene</h1>
+				<h1 class="jnh1">Jennifer A Ngene</h1>
 				<img src="images/jennifer.jpg" alt="Jennifer Ngene">
 			</a>
 		</header>

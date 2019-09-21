@@ -37,12 +37,13 @@ ul {
 	margin-left: 20px;
 }
 
-
-
-
-.homeh1, .jhh1, .jch1 {
+.homeh1, .jnh1, .jhh1, .jch1 {
 	margin-top: 20px;
+	font-size: 42px;
+	text-align: center;
 }
+
+.intro {margin-top: 125px;}
 
 .here {
 	text-decoration: underline;
@@ -50,9 +51,9 @@ ul {
 	margin-left: -10px;
 }
 
-
 .container {
 	margin: 25px auto;
+	margin-top: 40px;
 	width: 90%;
 	max-width: 960px;
 
@@ -86,8 +87,7 @@ main {
 	margin-top: 75px;
 }
 
-aside { grid-column: 1 / 4;
-	}
+aside { grid-column: 1 / 4; }
 
 footer { grid-column: 1 / 5; }
 
@@ -95,11 +95,10 @@ footer { grid-column: 1 / 5; }
 	footer { margin-bottom: 15px; }
 }
 
-
-
 aside {
 	align-self: end;
 	font-style: italic;
+	font-size: 80%;
 	padding-left: 15px;
 }
 
@@ -113,9 +112,6 @@ footer {
 	line-height: 1.2em;
 	margin-top: 50px;
 }
-
-
-
 
 nav ul {
 	text-indent: 0;
@@ -137,9 +133,6 @@ nav li {
 	}
 	nav li { margin-left: 0; }
 }
-
-
-
 
 .is-current {
 	background-color: black;

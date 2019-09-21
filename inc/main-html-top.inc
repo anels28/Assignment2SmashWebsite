@@ -11,11 +11,15 @@
 
 		<header>
 			<a href="index.php">
-				<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 30px;" > Welcome to our page </h1>
+				<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 42px;" > Welcome to our page!</h1>
 				<img src="images/berlin.jpg" alt="Seattle">
 			</a>
 		</header>
 
 		<aside>
-			<p> Hello World. <br> This is the Second Assignment. <br> We are Team Berlin.</p>
+			<ul>
+				<li>Hello World.</li>
+				<li>This is the Second Assignment.</li>
+				<li>We are Team Berlin.</li>
+			</ul>
 		</aside>
