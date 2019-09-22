@@ -2,7 +2,14 @@
 $currentPage = "Junting Chen| Working Experience";
 include "inc/junting-html-top.inc";
 ?>
-<?php include "inc/main-nav.inc"; ?>
+<nav class="menu">
+	<ul>
+		<li><a href="index.php">Home</a></li>
+		<li><a href="jialin.php">Jialin Huo</a></li>
+		<li><a class="is-current" href="junting.php">Junting Chen</a></li>
+		<li><a href="jennifer.php">Jennifer Ngene</a></li>
+	</ul>
+</nav>
 
 		<main>
 			<h1>Working Experience</h1>

@@ -1,8 +1,15 @@
-<?php 
+	<?php 
 $currentPage = "Jennifer A Ngene | Now";
 include "inc/jennifer-html-top.inc";
 ?>
-<?php include "inc/main-nav.inc"; ?>
+<nav class="menu">
+	<ul>
+		<li><a href="index.php">Home</a></li>
+		<li><a href="jialin.php">Jialin Huo</a></li>
+		<li><a href="junting.php">Junting Chen</a></li>
+		<li><a class="is-current" href="jennifer.php">Jennifer Ngene</a></li>
+	</ul>
+</nav>
 
 		<main>
 			<h1>Now</h1>
@@ -18,4 +25,5 @@ include "inc/jennifer-html-top.inc";
 		</main>
 
 <?php include "inc/jennifer-nav.inc"; ?>
+
 <?php include "inc/footer.inc"; ?>
